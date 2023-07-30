@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650266918563",
+    "project_id": "jamurku-26856",
+    "storage_bucket": "jamurku-26856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650266918563:android:53d15d63d5c65a0726c916",
+        "android_client_info": {
+          "package_name": "com.ardi.jamurku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650266918563-bhugbf2vanke5610kbsc0et4cl95bav9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxEXd9y18j3kFFZVNnX-5wzcomzRGopTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650266918563-bhugbf2vanke5610kbsc0et4cl95bav9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

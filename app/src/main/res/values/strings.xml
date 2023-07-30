@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jamurku</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
